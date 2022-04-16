@@ -231,13 +231,13 @@ logs-app% docker pull user/newtag
 
 - .dockerignore
 ```d
-node_modules
-
 .git
-
-.idea
-
 Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+README.md
+.next
 ```
 
 
