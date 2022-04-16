@@ -1,3 +1,6 @@
+Официальный Dockerfile https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile
+
+
 # Docker-Get-Started
 
 ```d
