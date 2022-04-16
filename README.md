@@ -1,6 +1,11 @@
-Официальный Dockerfile для NEXT JS https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile
-Официальный ENV-MULTI для NEXT JS https://github.com/vercel/next.js/tree/canary/examples/with-docker-multi-env
-Документация для Node JS https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine
+- Официальный Dockerfile для NEXT JS 
+https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile
+
+- Официальный ENV-MULTI для NEXT JS 
+ https://github.com/vercel/next.js/tree/canary/examples/with-docker-multi-env
+
+- Документация для Node JS 
+https://github.com/nodejs/docker-node/tree/b4117f9333da4138b03a546ec926ef50a31506c3#nodealpine
 
 # Docker-Get-Started
 
