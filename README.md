@@ -101,7 +101,7 @@ IMAGE служат только для чтения, так как он фикс
 
 Удалить IMAGE
 ```d
-% docker --rmi [IMAGE ID] [IMAGE ID] [IMAGE ID]
+% docker rmi [IMAGE ID] [IMAGE ID] [IMAGE ID]
 ```
 
 ##Dockerfile 
