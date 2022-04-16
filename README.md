@@ -286,3 +286,18 @@ run:
 stop: 
     docker stop [CONTAINER ID или название]
 ```
+
+
+## Подготовка проекта
+
+На примере Yat-front
+
+1. Сборка образа
+```d
+% docker build -t yatapp .
+```
+
+2. Запуск Makefile
+```
+ % make run
+```
