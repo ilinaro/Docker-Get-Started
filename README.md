@@ -94,6 +94,11 @@ IMAGE служат только для чтения, так как он фикс
 % docker image prune
 ```
 
+
+```d
+% docker rmi $(docker images -f dangling=true -q)
+```
+
 Удалить CONTAINER
 ```d
 % docker rm [CONTAINER ID] [CONTAINER ID] [CONTAINER ID]
